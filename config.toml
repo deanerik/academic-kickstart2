@@ -6,7 +6,7 @@
 baseurl = "/"
 
 # Title of your site
-title = "Erik Dean"
+title = "Erik k Dean"
 
 # Your copyright notice - appears in site footer.
 # To display a copyright symbol, type `&copy;`.
@@ -50,7 +50,7 @@ defaultContentLanguageInSubdir = false
   font = "classic"
 
   # Your details.
-  name = "Erik K Dean"
+  name = "Erik Dean"
   role = "Aquatic Science Biologist"
 
   # Organizations/Affiliations.
