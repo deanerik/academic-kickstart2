@@ -9,7 +9,7 @@ weight = 5
 
 # List your academic interests.
 [interests]
-  focus = [
+  interests = [
     "Ecology",
     "Climate Change",
     "Scientific Computing",
