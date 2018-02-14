@@ -9,28 +9,23 @@ weight = 5
 
 # List your academic interests.
 [interests]
-  interests = [
-    "Artificial Intelligence",
-    "Computational Linguistics",
-    "Information Retrieval"
+  focus = [
+    "Ecology",
+    "Climate Change",
+    "Fisheries Management"
   ]
 
 # List your qualifications (such as academic degrees).
 [[education.courses]]
-  course = "PhD in Artificial Intelligence"
-  institution = "Stanford University"
-  year = 2012
+  course = "Master of Environmental Science"
+  institution = "University of Toronto"
+  year = [2017]
 
 [[education.courses]]
-  course = "MEng in Artificial Intelligence"
-  institution = "Massachusetts Institute of Technology"
-  year = 2009
+  course = "Honours Bachelor of Science"
+  institution = "University of Toronto"
+  year = [2015]
 
-[[education.courses]]
-  course = "BSc in Artificial Intelligence"
-  institution = "Massachusetts Institute of Technology"
-  year = 2008
- 
 +++
 
 # Biography
