@@ -12,19 +12,20 @@ weight = 5
   focus = [
     "Ecology",
     "Climate Change",
+    "Scientific Computing",
     "Fisheries Management"
   ]
 
 # List your qualifications (such as academic degrees).
 [[education.courses]]
   course = "Master of Environmental Science"
-  institution = "University of Toronto"
-  year = [2017]
+  institution = "University of Toronto     2017"
+  year =
 
 [[education.courses]]
   course = "Honours Bachelor of Science"
-  institution = "University of Toronto"
-  year = [2015]
+  institution = "University of Toronto     2015"
+  year =
 
 +++
 
