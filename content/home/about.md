@@ -20,15 +20,15 @@ weight = 5
 [[education.courses]]
   course = "Master of Environmental Science"
   institution = "University of Toronto     2017"
-  year =
+  year = ""
 
 [[education.courses]]
   course = "Honours Bachelor of Science"
   institution = "University of Toronto     2015"
-  year =
+  year = ""
 
 +++
 
 # Biography
 
-This is a work in progress!
+This is a work in progress
