@@ -50,7 +50,7 @@ defaultContentLanguageInSubdir = false
   font = "classic"
 
   ########### Testing a font change from comment 
-  body_classes = "baskerville bg-near-white" 
+  body_classes = "didot bg-near-white" 
   
   # Your details.
   name = "Erik Dean"
