@@ -52,27 +52,6 @@ defaultContentLanguageInSubdir = false
   ########### Testing a font change from comment 
   body_classes = "baskerville bg-near-white" 
   
-  [params.googleApiFonts.family]
-  tagsText        = [ "html", "body", "time" ]
-  tagsHeading     = [ "h1", "h2", "h3", "h4", "h5", "h6" ]
-  tagsMono        = [ "pre", "code", "samp" ]
-  fallbackText    = "html"
-  fallbackHeading = "h1"
-  fallbackMono    = "pre"
-
-[params.googleApiFonts.family.html]
-  sans-serif = "Poppins"
-[params.googleApiFonts.family.time]
-  cursive    = "Creepster"
-[params.googleApiFonts.family.h1]
-  sans-serif = "Days One"
-[params.googleApiFonts.family.h3]
-  cursive    = "Creepster"
-[params.googleApiFonts.family.pre]
-  monospace  = "Cousine"
-[params.googleApiFonts.family.samp]
-  sans-serif = "Roboto"
-
   # Your details.
   name = "Erik Dean"
   role = "Aquatic Science Biologist"
