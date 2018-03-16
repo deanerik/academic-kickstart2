@@ -46,21 +46,8 @@ defaultContentLanguageInSubdir = false
   color_theme = "ocean"
 
   # Font style.
-  #   Choose from `default`, `classic`, or `playfair`.
-  # font = "classic"
-  
- # Optional Google font URL
-  google_fonts = "Cinzel:400,700|Lato:300|Roboto+Mono"
-
-  # Font families
-  heading_font = "Cinzel"
-  body_font = "Lato"
-  nav_font = "Cinzel"
-  mono_font = "Roboto Mono"
-
-  # Font size
-  font_size = "20"
-  font_size_small = "16"
+  # Choose from `default`, `classic`, or `playfair`.
+  font = "classic"
   
   # Your details.
   name = "Erik Dean"
