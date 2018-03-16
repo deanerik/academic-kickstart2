@@ -40,22 +40,6 @@ defaultContentLanguageInSubdir = false
   fractions = true  # `false` disables smart fractions (e.g. 5/12 formatted as a fraction).
   smartypants = true  # `false` disables all smart punctuation substitutions (e.g. smart quotes, dashes, fractions).
 
- ########### Testing a font change from comment 
-  
-  #[params.font]
-    # Some example fonts: Domine, Raleway, "Gentium Basic", Lato
-
-    #body = "Lato"
-   # heading = "Raleway"
-    #blockquote = "Gentium Basic"
-    #nav = "Domine"
-    #paragraph = "Roboto"
-    #body_classes = "helvetica bg-near-white" 
-    
-  
-    
-    
-
 [params]
   # Color theme.
   #   Choose from `default`, `ocean`, `forest`, `coffee`, `dark`, or `1950s`.
@@ -69,20 +53,14 @@ defaultContentLanguageInSubdir = false
   google_fonts = "Lato:400,700|Merriweather|Roboto+Mono"
 
   # Font families
-  heading_font = "Lato"
-  body_font = "Merriweather"
+  heading_font = "Cinzel:400"
+  body_font = "Lato:300"
   nav_font = "Lato"
   mono_font = "Roboto Mono"
 
   # Font size
   font_size = "20"
   font_size_small = "16"
-  
-  
-  
-  
-  
-  
   
   # Your details.
   name = "Erik Dean"
