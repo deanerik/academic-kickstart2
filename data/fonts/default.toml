@@ -2,10 +2,10 @@
 name = "Default"
 
 # Optional Google font URL
-google_fonts = "Cinzel:400|Lato:300,100|Roboto+Mono"
+google_fonts = "Crimson Text:400,600|Lato:100,300|Roboto+Mono"
 
 # Font families
-heading_font = "Cinzel"
+heading_font = "Crimson Text"
 body_font = "Lato"
 nav_font = "Lato"
 mono_font = "Roboto Mono"
