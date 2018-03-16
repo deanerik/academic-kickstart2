@@ -6,7 +6,7 @@ highlight = false
 
 # Optional featured image (relative to `static/img/` folder).
 [header]
-image = "kite.png"
+image = "kite2.png"
 caption = ""
 
 +++
