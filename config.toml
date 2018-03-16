@@ -45,12 +45,27 @@ defaultContentLanguageInSubdir = false
   [params.font]
     # Some example fonts: Domine, Raleway, "Gentium Basic", Lato
 
-    body = "Lato"
-    heading = "Raleway"
-    blockquote = "Gentium Basic"
-    nav = "Domine"
-    paragraph = "Roboto"
-    body_classes = "helvetica bg-near-white" 
+    #body = "Lato"
+   # heading = "Raleway"
+    #blockquote = "Gentium Basic"
+    #nav = "Domine"
+    #paragraph = "Roboto"
+    #body_classes = "helvetica bg-near-white" 
+    
+  # Optional Google font URL
+  google_fonts = "Lato:400,700|Merriweather|Roboto+Mono"
+
+  # Font families
+  heading_font = "Lato"
+  body_font = "Merriweather"
+  nav_font = "Lato"
+  mono_font = "Roboto Mono"
+
+  # Font size
+  font_size = "20"
+  font_size_small = "16"
+    
+    
 
 [params]
   # Color theme.
