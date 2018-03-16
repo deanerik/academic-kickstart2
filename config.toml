@@ -43,19 +43,19 @@ defaultContentLanguageInSubdir = false
 [params]
   # Color theme.
   #   Choose from `default`, `ocean`, `forest`, `coffee`, `dark`, or `1950s`.
-  color_theme = "forest"
+  color_theme = "ocean"
 
   # Font style.
   #   Choose from `default`, `classic`, or `playfair`.
   # font = "classic"
   
-  # Optional Google font URL
-  # google_fonts = "Lato:400,700|Merriweather|Roboto+Mono"
+ # Optional Google font URL
+  google_fonts = "Cinzel:400,700|Lato:300|Roboto+Mono"
 
   # Font families
-  heading_font = "Cinzel:400"
-  body_font = "Lato:300"
-  nav_font = "Lato"
+  heading_font = "Cinzel"
+  body_font = "Lato"
+  nav_font = "Cinzel"
   mono_font = "Roboto Mono"
 
   # Font size
