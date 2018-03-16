@@ -50,7 +50,7 @@ defaultContentLanguageInSubdir = false
   # font = "classic"
   
   # Optional Google font URL
-  google_fonts = "Lato:400,700|Merriweather|Roboto+Mono"
+  # google_fonts = "Lato:400,700|Merriweather|Roboto+Mono"
 
   # Font families
   heading_font = "Cinzel:400"
