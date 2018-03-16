@@ -42,7 +42,7 @@ defaultContentLanguageInSubdir = false
 
  ########### Testing a font change from comment 
   
-  [params.font]
+  #[params.font]
     # Some example fonts: Domine, Raleway, "Gentium Basic", Lato
 
     #body = "Lato"
@@ -52,6 +52,19 @@ defaultContentLanguageInSubdir = false
     #paragraph = "Roboto"
     #body_classes = "helvetica bg-near-white" 
     
+  
+    
+    
+
+[params]
+  # Color theme.
+  #   Choose from `default`, `ocean`, `forest`, `coffee`, `dark`, or `1950s`.
+  color_theme = "forest"
+
+  # Font style.
+  #   Choose from `default`, `classic`, or `playfair`.
+  # font = "classic"
+  
   # Optional Google font URL
   google_fonts = "Lato:400,700|Merriweather|Roboto+Mono"
 
@@ -64,17 +77,12 @@ defaultContentLanguageInSubdir = false
   # Font size
   font_size = "20"
   font_size_small = "16"
-    
-    
-
-[params]
-  # Color theme.
-  #   Choose from `default`, `ocean`, `forest`, `coffee`, `dark`, or `1950s`.
-  color_theme = "forest"
-
-  # Font style.
-  #   Choose from `default`, `classic`, or `playfair`.
-  # font = "classic"
+  
+  
+  
+  
+  
+  
   
   # Your details.
   name = "Erik Dean"
