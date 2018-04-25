@@ -18,6 +18,11 @@ weight = 5
 
 # List your qualifications (such as academic degrees).
 [[education.courses]]
+  course = "Doctorate of Philosophy in Environmental Science"
+  institution = "University of Toronto 2022"
+  year = ""
+
+[[education.courses]]
   course = "Master of Environmental Science"
   institution = "University of Toronto 2017"
   year = ""
@@ -32,6 +37,8 @@ weight = 5
 # Synopsis
 
 Hello. This is me.
+
+In progress.
 
 
 
