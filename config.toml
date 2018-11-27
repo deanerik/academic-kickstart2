@@ -51,11 +51,11 @@ defaultContentLanguageInSubdir = false
   
   # Your details.
   name = "Erik Dean"
-  role = "Aquatic Science Biologist"
+  role = "PhD Student, Mandrak Lab"
 
   # Organizations/Affiliations.
   #   Separate multiple entries with a comma, using the form: `[ {name="Org1", url=""}, {name="Org2", url=""} ]`.
-  organizations = [ { name = "Fisheries and Oceans Canada", url = "" }, { name = "University of Toronto", url = "" } ]
+  organizations = [ { name = "Fisheries and Oceans Canada", url = "" }, { name = "University of Toronto Scarborough", url = "" } ]
 
   gravatar = false  # Get your avatar from Gravatar.com? (true/false)
   avatar = "portrait.jpg"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
@@ -92,7 +92,7 @@ defaultContentLanguageInSubdir = false
   #   1: Google Maps
   #   2: OpenStreetMap (Mapnik)
   #   3: OpenStreetMap (Mapbox)
-  map = 1
+  map = 0
   map_api_key = "AIzaSyAJqoZ4MI5BHNfFauASwL10lr56h1Wr0Pw"
   latitude = "43.299714"
   longitude = "-79.802088"
