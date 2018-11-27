@@ -11,6 +11,7 @@ weight = 5
 [interests]
   interests = [
     "Ecology",
+    "Conservation",
     "Climate Change",
     "Scientific Computing",
     "Fisheries Management"
@@ -18,7 +19,7 @@ weight = 5
 
 # List your qualifications (such as academic degrees).
 [[education.courses]]
-  course = "Doctor of Philosophy, Environmental Science"
+  course = "Doctor of Philosophy"
   institution = "University of Toronto 2022"
   year = ""
 
