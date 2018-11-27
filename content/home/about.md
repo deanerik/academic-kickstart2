@@ -37,7 +37,5 @@ weight = 5
 
 # Synopsis
 
-"I am PhD student motivated towards the development of knowledge in support of conservation objectives.
-Based in the Mandrak Laboratory at the University of Toronto Scarborough, under the co-supervision of Nick Mandrak (University of Toronto) and Andrew Drake (Fisheries and Oceans Canada), I am investigating invasive fishes' populations dynamics in the habitats of the future. As climate change progresses, environmental conditions may transition to alternative states, transforming freshwater habitats and the communities of fishes within them as a result. My challenge is to employ both traditional modelling approaches along with promising techniques from the fields of Machine Learning, and High Performance Computing, to explore these changes, predict their outcomes, and describe the timelines in which they may occur under different scenarios."
-
+" Erik K Dean is a PhD student at the University of Toronto, working to address the alien invasions of the future. As climate change progresses, aquatic habitats, and the communities of fishes within them are projected to be deeply reshaped. Arising from this flux is the potential arrival, and survival of invasive alien species, such as the Asian Carps, which could have  greatly harm the economically, and ecologically valuable Great Lakes. Erik is developing models using traditional, and machine learning techniques, to predict the future environmental conditions which would enable such invasions, and when they may happen. "
 
