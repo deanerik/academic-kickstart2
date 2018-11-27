@@ -37,6 +37,7 @@ weight = 5
 
 # Synopsis
 
-"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+"I am PhD student motivated towards the development of knowledge in support of conservation objectives.
+Based in the Mandrak Laboratory at the University of Toronto Scarborough, under the co-supervision of Nick Mandrak (University of Toronto) and Andrew Drake (Fisheries and Oceans Canada), I am investigating invasive fishes' populations dynamics in the habitats of the future. As climate change progresses, environmental conditions may transition to alternative states, transforming freshwater habitats and the communities of fishes within them as a result. My challenge is to employ both traditional modelling approaches along with promising techniques from the fields of Machine Learning, and High Performance Computing, to explore these changes, predict their outcomes, and describe the timelines in which they may occur under different scenarios."
 
 
