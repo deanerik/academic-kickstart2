@@ -26,6 +26,11 @@ list_format = 3
 #  0: Uncategorized
 #  1: Conference proceedings
 #  2: Journal
+
+"Phoebe D Edwards, Erik Dean, Rupert Palme, Rudy Boonstra. (Submitted August 2, 2018).
+Assessing space use in meadow voles: the relationship to reproduction and the stress axis.
+Journal of Mammalogy. 32 pages. Manuscript ID: JMAMM-2018-209."
+
 #  3: Work in progress
 #  4: Technical report
 #  5: Book
@@ -36,6 +41,3 @@ publication_type = "-1"
 exclude_selected = false
 +++
 
-"Phoebe D Edwards, Erik Dean, Rupert Palme, Rudy Boonstra. (Submitted August 2, 2018).
-Assessing space use in meadow voles: the relationship to reproduction and the stress axis.
-Journal of Mammalogy. 32 pages. Manuscript ID: JMAMM-2018-209.
