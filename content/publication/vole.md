@@ -2,7 +2,7 @@
 title = "Assessing space use in meadow voles: the relationship to reproduction and the stress axis"
 
 # Date first published.
-date = "2018-10-18"
+date = "2018-12-10"
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
 authors = ["Phoebe D Edwards", "Erik K Dean", "Rupert Palme", "Rudy Boonstra"]
@@ -39,7 +39,7 @@ selected = false
 projects = []
 
 # Links (optional).
-url_pdf = "pdf/my-paper-name.pdf"
+url_pdf = "https://watermark.silverchair.com/gyy161.pdf?token=AQECAHi208BE49Ooan9kkhW_Ercy7Dm3ZL_9Cf3qfKAc485ysgAAAnUwggJxBgkqhkiG9w0BBwagggJiMIICXgIBADCCAlcGCSqGSIb3DQEHATAeBglghkgBZQMEAS4wEQQMNcosr3J_46fOR820AgEQgIICKK65dng-t8N_1PbmvszQ5-PKEfXn0AaSdfnOD-SvtYnUNxx4QYCAM9hs1P55JVwnckJYJCAfuJEbAYSwH0izG3NxUQ1jIHJZ4HOgPK_RLkkOBKZ9e-oQ1icL5b3r7LpYjLFdd6RZoLfaynrUyrbeyEWnJNVSPJN1ItBZL4DIh7HaeKfAGEpRNnzKVcfyGmsw_8jpICl-a_STKlKQP93V3yoM9P1CVMvW1ofuneF3UG-NcOhUBfr_62E5vaDVerMZyhq3ovqFsLTqEyytcU0otD2OR0WU9uA5ggVwU9lbD2GYVqkRqwDjIDDSMggDI9kjf7glerkVGirc2zNoqMy63Nz8ShDSrtsPiPA4ajKiVmNZGoTzk7vjmRXbopWDZbscdJZJDGZ_r9P_Pvm5H7BpL03FVjpIpb2CClq9zeggFf2YTYnTUhNx8VdCkHrEEyb0cbpgRoZi2B35bCd05_NpYBhvOjVLA8uycpLFmb-T4zy2nGFai-ok1-oCKE37Aqy0sq48z7EeNI8Qo_x8BremJDLhQOzMaUPPru5Y6S7_4q_seT1_CSDeX5YRosCaK8cG8z-f7hKnvvxdHWCZXjkMXy5f__HhsWjEXjZnyZ9cBYuNchegFxHQAaGMtZCR00E-Bo9xdkxBhg6d6phDLLA3RsIg3kDx3XYjPpJbbOqAy8DVD8IjcTWWBZt-ySnoks-1RYcHXRL6YF5oFUyrFlk9_6aHQqdtYQ854g"
 url_preprint = ""
 url_code = ""
 url_dataset = ""
@@ -51,7 +51,7 @@ url_source = ""
 
 # Custom links (optional).
 #   Uncomment line below to enable. For multiple links, use the form `[{...}, {...}, {...}]`.
-# url_custom = [{name = "Custom Link", url = "https://doi.org/10.1093/jmammal/gyy161"}]
+# url_custom = [{name = "Custom Link", url = ""}]
 
 # Does the content use math formatting?
 math = true
@@ -67,4 +67,4 @@ caption = "caption"
 
 +++
 
-Further details on your publication can be written here using *Markdown* for formatting. This text will be displayed on the Publication Detail page.
+My contribution to this work was done during my term as a research assistant during the field season of 2017, with additional contributions to the analysis in the following months. 
