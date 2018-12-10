@@ -1,12 +1,11 @@
-+++ 
-title = "The Next Step, and some tips to keep one step ahead" 
-date = 2018-11-30T13:30:00-05:00
-highlight = false
++++ date = 2018-11-30T13:30:00
 
-#time_start = 2018-03-12T13:46:14-05:00 #time_end = 2018-03-12T13:46:14-05:00
+title = "The Next Step, and some tips to keep one step ahead" 
+
+time_start = 2018-03-12T13:46:14-05:00 time_end = 2018-03-12T13:46:14-05:00
 
 # Authors. Comma separated list, e.g. ["Bob Smith", "David Jones"]. 
-authors = []
+authors = [""]
 
 # Abstract and optional shortened version. 
 abstract = "An overview on a successful transition to university, given to a graduating class of highschool students" 
