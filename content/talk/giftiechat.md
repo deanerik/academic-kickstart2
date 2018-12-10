@@ -1,8 +1,9 @@
 +++ title = "The Next Step, and some tips to keep one step ahead" 
 
-date = "2018-11-30"
+date = 2018-11-30
 
-time_start = 2030-06-01T13:00:00 time_end = 2030-06-01T15:00:00
+time_start = 2030-06-01T13:00:00 
+time_end = 2030-06-01T15:00:00
 
 # Authors. Comma separated list, e.g. ["Bob Smith", "David Jones"]. 
 authors = []
