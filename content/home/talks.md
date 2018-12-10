@@ -2,9 +2,9 @@
 # Recent and Upcoming Talks widget.
 widget = "talks"
 active = true
-date = "2016-04-20T00:00:00"
+date = "2018-12-10T00:00:00"
 
-title = "Recent & Upcoming Talks"
+title = "Recent Talks"
 subtitle = ""
 
 # Order that this section will appear in.
