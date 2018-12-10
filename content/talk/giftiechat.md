@@ -1,6 +1,6 @@
 +++ 
 title = "The Next Step, and some tips to keep one step ahead" 
-date = "2018-11-19T00:00:00Z"
+date = 2018-11-19T00:00:00Z
 highlight = false
 
 # Authors. Comma separated list, e.g. ["Bob Smith", "David Jones"]. 
