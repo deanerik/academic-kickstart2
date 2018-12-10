@@ -1,6 +1,8 @@
 +++ 
 title = "The Next Step, and some tips to keep one step ahead" 
 date = "2018-11-19T00:00:00Z"
+math = false
+highlight = false
 
 # Authors. Comma separated list, e.g. ["Bob Smith", "David Jones"]. 
 authors = []
@@ -43,7 +45,8 @@ math = false
 caption = "test caption"
 
 # Focal point (optional) Options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight 
-focal_point = "Right" +++
+focal_point = "Right" 
 
-
++++
+This is a sentence for debugging
 
