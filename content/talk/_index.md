@@ -1,23 +1,16 @@
 +++
-
-# Recent and Upcoming Talks widget.
-widget = "talks" active = true date = 2016-04-20T00:00:00
-
-title = "Recent Talks" subtitle = ""
-
-# Order that this section will appear in.
-weight = 30
-
-# Number of talks to list.
-count = 10
+title = "Recent Talks"
+date = "2017-01-01T00:00:00Z"
+math = false
+highlight = false
 
 # List format.
-0 = Simple
-1 = Detailed
-2 = Stream
+#   0 = Simple
+#   1 = Detailed
 list_format = 0
 
-Exclude talks that are shown in the Selected Talks widget?
-exclude_selected = false 
-
+# Optional featured image (relative to `static/img/` folder).
+[header]
+image = ""
+caption = ""
 +++
