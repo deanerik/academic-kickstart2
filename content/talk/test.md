@@ -1,8 +1,9 @@
-+++ date = 2018-11-30T13:30:00
++++ date = 2018-11-30T13:30:00-05:00
+draft = false
 
 title = "The Next Step, and some tips to keep one step ahead" 
 
-time_start = 2018-03-12T13:46:14-05:00 time_end = 2018-03-12T13:46:14-05:00
+#time_start = 2018-03-12T13:46:14-05:00 #time_end = 2018-03-12T13:46:14-05:00
 
 # Authors. Comma separated list, e.g. ["Bob Smith", "David Jones"]. 
 authors = [""]
@@ -48,5 +49,5 @@ caption = "test caption"
 focal_point = "Right" 
 
 +++
-This is a sentence for debugging
+This is a sentence for reference in debugging
 
