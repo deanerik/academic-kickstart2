@@ -9,12 +9,12 @@ draft = false
 authors = [""]
 
 # Abstract and optional shortened version. 
-abstract = "An overview on a successful transition to university, given to a graduating class of highschool students" 
-abstract_short = "Science outreach"
+abstract = "" 
+abstract_short = ""
 
 # Name of event and optional event URL. 
-event = "Academic Theme Conference" 
-event_url = "urlhere.com"
+event = "Guest Lecture at Woburn Collegiate Institute" 
+event_url = ""
 
 # Location of event. 
 location = "Toronto, Canada"
@@ -41,6 +41,7 @@ url_code = ""
 math = false
 
 # Featured image To use, add an image named featured.jpg/png to your page's folder.
+[header] image = "" 
 
 # Caption (optional) 
 caption = "test caption"
@@ -49,5 +50,5 @@ caption = "test caption"
 focal_point = "Right" 
 
 +++
-This is a sentence for reference in debugging
+An overview on a successful transition to university, given to a graduating class of highschool students.
 
