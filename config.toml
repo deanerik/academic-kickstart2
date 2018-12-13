@@ -51,7 +51,7 @@ defaultContentLanguageInSubdir = false
   
   # Your details.
   name = "Erik Dean"
-  role = "PhD Student, Mandrak Lab"
+  role = [ { name = "PhD Student, Mandrak Lab", url = "http://mandraklab.ca" } ]
 
   # Organizations/Affiliations.
   #   Separate multiple entries with a comma, using the form: `[ {name="Org1", url=""}, {name="Org2", url=""} ]`.
