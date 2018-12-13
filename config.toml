@@ -295,8 +295,3 @@ defaultContentLanguageInSubdir = false
 # Configure the English version of the website.
 [Languages.en]
   languageCode = "en-us"
-  
-  # FOOTER PARAMETERS
-  footmark = ""
-  stacklogo = "static/img/kites.png"
-  legalblurb = "All opinions expressed here are my own and do not necessarily represent those of any other agencies or groups."
