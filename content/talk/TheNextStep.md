@@ -1,5 +1,5 @@
 +++ 
-title = "The Next Step \n and some tips to keep one step ahead" 
+title = "The Next Step and some tips to keep one step ahead" 
 date = 2018-12-13T11:00:00-04:00
 draft = false
 
@@ -23,7 +23,7 @@ location = "Toronto, Canada"
 selected = false
 
 # Projects (optional). Associate this talk with one or more of your projects. Simply enter your project's folder or file name without extension. E.g. projects = ["deep-learning"] references content/project/deep-learning/index.md. Otherwise, set projects = []. 
-projects = ["Public Outreach"]
+projects = []
 
 # Tags (optional). Set tags = [] for no tags, or use the form tags = ["A Tag", "Another Tag"] for one or more tags. 
 tags = []
