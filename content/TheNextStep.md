@@ -1,9 +1,9 @@
 +++ 
-title = "The Next Step, and some tips to keep one step ahead" 
-date = 2018-11-30T13:30:00-05:00
+title = "The Next Step \n and some tips to keep one step ahead" 
+date = 2018-12-13T11:00:00-04:00
 draft = false
 
-time_start = 2018-03-12T13:46:14-05:00 #time_end = 2018-03-12T13:46:14-05:00
+time_start = 2018-11-30T14:01:00-04:00 #time_end = 2018-11-30T15:00:00--04:00
 
 # Authors. Comma separated list, e.g. ["Bob Smith", "David Jones"]. 
 authors = [""]
@@ -23,7 +23,7 @@ location = "Toronto, Canada"
 selected = false
 
 # Projects (optional). Associate this talk with one or more of your projects. Simply enter your project's folder or file name without extension. E.g. projects = ["deep-learning"] references content/project/deep-learning/index.md. Otherwise, set projects = []. 
-projects = []
+projects = ["Public Outreach"]
 
 # Tags (optional). Set tags = [] for no tags, or use the form tags = ["A Tag", "Another Tag"] for one or more tags. 
 tags = []
@@ -44,11 +44,12 @@ math = false
 image = "" 
 
 # Caption (optional) 
-caption = "test caption"
+caption = ""
 
 # Focal point (optional) Options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight 
 focal_point = "Right" 
 
 +++
-An overview on a successful transition to university, given to a graduating class of highschool students.
+
+The set of skills that make a student successful in highschool are not the same as those needed in university. There are a host of different resources available to students, new challenges and opportunities, which can come as a startling change of environments for new students. In this talk I give an an overview on strategies for a successful transition to university, outlining the likely challenges across immediate and long-term timescales, to a graduating class of highschool students.
 
