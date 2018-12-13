@@ -5,9 +5,10 @@ active = true
 date = 2017-09-20
 
 title = "Tags"
-subtitle = "Conservation, Freshwater, Fishes, Great Lakes, Climate Change, Modelling, Invasive Species, Asian Carp"
+subtitle = ""
 
 # Order that this section will appear in.
 weight = 65
 
 +++
+Conservation, Freshwater, Fishes, Great Lakes, Climate Change, Modelling, Invasive Species, Asian Carp
