@@ -1,5 +1,5 @@
 +++ 
-title = "The Next Step \n and some tips to keep one step ahead" 
+title = "The Next Step and some tips to keep one step ahead" 
 date = 2018-12-13T11:00:00-04:00
 draft = false
 
