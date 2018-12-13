@@ -14,9 +14,11 @@ subtitle = ""
 weight = 60
 
 +++
+### 2018-2019
 
-I am currently a Teaching Assistant at the University of Toronto Scarborough Campus for these courses:
+#### Teaching Assistant
+## University of Toronto Scarborough
 
-EES1111H - Freshwater Ecology and Biomonitoring
+- [EES1111H - Freshwater Ecology and Biomonitoring](https://www.utsc.utoronto.ca/gradpes/ees1111h-freshwater-ecology-and-biomonitoring)
 
-EES1137H - Quantitative Applications for Data Analysis
+- [EES1137H - Quantitative Applications for Data Analysis](https://www.utsc.utoronto.ca/gradpes/ees1137h-quantitative-applications-data-analysis)
