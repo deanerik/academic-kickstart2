@@ -15,6 +15,6 @@ weight = 60
 
 +++
 ## 2018-2019
-### Teaching Assistant <br> >University of Toronto Scarborough:
+### Teaching Assistant <br>  University of Toronto Scarborough:
 - [EES1111H - Freshwater Ecology and Biomonitoring](https://www.utsc.utoronto.ca/gradpes/ees1111h-freshwater-ecology-and-biomonitoring)
 - [EES1137H - Quantitative Applications for Data Analysis](https://www.utsc.utoronto.ca/gradpes/ees1137h-quantitative-applications-data-analysis)
