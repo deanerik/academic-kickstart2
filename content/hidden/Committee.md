@@ -1,9 +1,10 @@
 +++
 title = "Fall - 2018"
-date = 2018-12-01T11:00:00-04:00
+date = "2018-12-01"
 math = true 
 highlight = false
 abstract = "this is a test sentence that will hopefully obstruct the other content?"
+abstract_short = "A short version of the abstract."
 event = "First semester updates: literature review, draft proposal"
 comments = true
 share = false
@@ -18,7 +19,8 @@ location = "toronto"
 
 
 # This is a hidden page, testing out. This is a comment
-# https://www.markdownguide.org/extended-syntax use this resource
+# https://www.markdownguide.org/extended-syntax                        use this resource
+# https://sourcethemes.com/academic/docs/writing-markdown-latex/       AND THIS RESOURCE
 
 +++
 
