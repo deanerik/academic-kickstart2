@@ -5,7 +5,8 @@ math = true
 highlight = false
 abstract = "this is a test sentence that will hopefully obstruct the other content?"
 event = "First semester updates: literature review, draft proposal"
-
+comments = true
+share = false
 time_start = 2018-11-30T14:01:00-04:00
 
 location = "toronto"
