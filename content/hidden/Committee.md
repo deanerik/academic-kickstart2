@@ -1,22 +1,12 @@
 +++
 title = "Fall - 2018"
-date = "2018-12-01"
+date = 2018-12-02
 math = true 
-highlight = false
-abstract = "this is a test sentence that will hopefully obstruct the other content?"
-abstract_short = "A short version of the abstract."
 summary = "First semester updates: literature review, draft proposal"
-comments = true
 share = false
-time_start = 2018-11-30T14:01:00-04:00
 
-location = "toronto"
-
-#[header] image = "" 
-#caption = ""
-
-
-
+#[header] image = "newlogo.png" 
+#caption = "This is the caption"
 
 # This is a hidden page, testing out. This is a comment
 # https://www.markdownguide.org/extended-syntax                        use this resource
@@ -24,15 +14,16 @@ location = "toronto"
 
 +++
 
-
-
-## THIS IS A TEST PAGE
-### Unlisted, should not be easily found. 
-#### For british eyes only.
+## For british eyes only.
+### This is unlisted, and should not be easily found. 
+#### THIS IS A TEST PAGE
 ___
 
 *Bold*
+
 **italics**
+
+***
 
 | Job         | Action      |
 | ------- | ----- |
@@ -47,7 +38,11 @@ ___
 
 This is a sentence:
 
->this is a block quote indeed <br> and this is the second sentence
-does this also go in the quote?
+>this is a block quote indeed <br> and this is the second sentence.
+But does this also go in the quote? 
+
+> Does this become a block quote? <br> and this is the second sentence?
+
+>or only these types. with the >next to the word.
 
 *How about this?*
