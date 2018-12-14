@@ -7,7 +7,7 @@ highlight = false
 #[header] image = "" 
 #caption = ""
 
-event = First semester updates: literature review, draft proposal
+event = "First semester updates: literature review, draft proposal"
 
 
 # This is a hidden page, testing out. This is a comment
