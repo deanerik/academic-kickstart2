@@ -1,10 +1,14 @@
 +++
 title = "Fall - 2018"
-date = 2018-12-01
+date = 2018-12-01T11:00:00-04:00
 math = true 
 highlight = false
 abstract = "this is a test sentence that will hopefully obstruct the other content?"
 event = "First semester updates: literature review, draft proposal"
+
+time_start = 2018-11-30T14:01:00-04:00
+
+location = "toronto"
 
 #[header] image = "" 
 #caption = ""
