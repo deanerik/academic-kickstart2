@@ -5,8 +5,8 @@ math = true
 summary = "First semester updates: literature review, draft proposal"
 share = false
 
-#[header] image = "newlogo.png" 
-#caption = "This is the caption"
+[header] image = "newlogo.png" 
+caption = "This is the caption"
 
 # This is a hidden page, testing out. This is a comment
 # https://www.markdownguide.org/extended-syntax                        use this resource
