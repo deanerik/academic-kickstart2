@@ -1,3 +1,7 @@
++++
+date = 2017-12-01
+title = "My first blog post"
+
 # This is a hidden page, testing out. This is a comment
 # https://www.markdownguide.org/extended-syntax use this resource
 
@@ -21,3 +25,5 @@ ___
 - [x] Systematic review search
 - [x] Compile literature
 - [ ] Filter irrelevant results
+
++++
