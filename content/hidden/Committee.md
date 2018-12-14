@@ -35,7 +35,8 @@ ___
 - [ ] Filter irrelevant results
 
 This is a sentence:
-> this is a block quote indeed <br> and this is the second sentence
+
+>this is a block quote indeed <br> and this is the second sentence
 does this also go in the quote?
 
 *How about this?*
