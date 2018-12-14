@@ -1,6 +1,6 @@
 +++
-title = "Fall - 2018"
-date = 2018-12-02
+title = "Fall Semester [2018]"
+date = 2018-12-13
 math = true 
 summary = "First semester updates: literature review, draft proposal"
 share = false
