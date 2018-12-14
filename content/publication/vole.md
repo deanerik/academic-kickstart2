@@ -51,7 +51,7 @@ url_source = ""
 
 # Custom links (optional).
 #   Uncomment line below to enable. For multiple links, use the form `[{...}, {...}, {...}]`.
-url_custom = [{name = "Page", url = "https://doi.org/10.1093/jmammal/gyy161"}]
+url_custom = [{name = "DOI", url = "https://doi.org/10.1093/jmammal/gyy161"}]
 
 # Does the content use math formatting?
 math = true
