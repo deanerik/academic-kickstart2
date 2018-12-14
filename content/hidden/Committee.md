@@ -1,6 +1,12 @@
 +++
 date = 2018-12-01
 title = "Fall - 2018"
+math = true 
+highlight = false
+
+[header] image = "" 
+caption = ""
+
 
 # This is a hidden page, testing out. This is a comment
 # https://www.markdownguide.org/extended-syntax use this resource
