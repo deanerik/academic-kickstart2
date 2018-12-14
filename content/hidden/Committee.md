@@ -7,6 +7,7 @@ highlight = false
 #[header] image = "" 
 #caption = ""
 
+abstract = "this is a test sentence that will hopefully obstruct the other content?"
 event = "First semester updates: literature review, draft proposal"
 
 
