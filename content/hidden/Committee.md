@@ -4,8 +4,8 @@ title = "Fall - 2018"
 math = true 
 highlight = false
 
-[header] image = "" 
-caption = ""
+#[header] image = "" 
+#caption = ""
 
 
 # This is a hidden page, testing out. This is a comment
