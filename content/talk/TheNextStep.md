@@ -2,7 +2,6 @@
 title = "The Next Step and some tips to keep one step ahead" 
 date = 2018-12-13T11:00:00-04:00
 draft = false
-share = false
 
 time_start = 2018-11-30T14:01:00-04:00 #time_end = 2018-11-30T15:00:00--04:00
 
