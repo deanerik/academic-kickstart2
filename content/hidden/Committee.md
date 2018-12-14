@@ -7,10 +7,6 @@ title = "My first blog post"
 
 ## THIS IS A TEST PAGE
 ### Unlisted, should not be easily found. For british eyes only.
-
-Some words 
-> Some more words, and other things
-
 ___
 
 *Bold*
@@ -27,3 +23,6 @@ ___
 - [ ] Filter irrelevant results
 
 +++
+This is a sentence
+> this is a block quote
+indeed
