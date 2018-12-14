@@ -1,5 +1,5 @@
 +++
-title = "Committee Club"
+title = "Committee updates"
 date = "2018-12-10T00:00:00Z"
 math = false
 highlight = false
@@ -7,10 +7,10 @@ highlight = false
 # List format.
 #   0 = Simple
 #   1 = Detailed
-list_format = 1
+list_format = 0
 
 # Optional featured image (relative to `static/img/` folder).
 [header]
-image = ""
-caption = ""
+image = "koi.png"
+caption = "koi caption"
 +++
