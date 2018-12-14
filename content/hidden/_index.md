@@ -11,6 +11,6 @@ list_format = 0
 
 # Optional featured image (relative to `static/img/` folder).
 [header]
-image = "koi.png"
-caption = "koi caption"
+image = "dreamcatcher.png"
+caption = "Credit: Perry Bible Fellowship"
 +++
