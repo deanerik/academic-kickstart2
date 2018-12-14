@@ -1,11 +1,12 @@
 +++
 date = 2017-12-01
 title = "My first blog post"
++++
 
 # This is a hidden page, testing out. This is a comment
 # https://www.markdownguide.org/extended-syntax use this resource
 
-## THIS IS A TEST PAGE
+# THIS IS A TEST PAGE
 ### Unlisted, should not be easily found. For british eyes only.
 ___
 
