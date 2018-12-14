@@ -1,14 +1,15 @@
 +++
-date = 2018-12-01
 title = "Fall - 2018"
+date = 2018-12-01
 math = true 
 highlight = false
+abstract = "this is a test sentence that will hopefully obstruct the other content?"
+event = "First semester updates: literature review, draft proposal"
 
 #[header] image = "" 
 #caption = ""
 
-abstract = "this is a test sentence that will hopefully obstruct the other content?"
-event = "First semester updates: literature review, draft proposal"
+
 
 
 # This is a hidden page, testing out. This is a comment
