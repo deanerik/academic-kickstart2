@@ -13,11 +13,6 @@ caption = "This is the caption"
 # https://www.markdownguide.org/extended-syntax                        use this resource
 # https://sourcethemes.com/academic/docs/writing-markdown-latex/       AND THIS RESOURCE
 
-<script data-isso="https://comments.comment.sh/erik-k-dean"
-	src="https://comments.comment.sh/erik-k-dean/js/embed.min.js"></script>
-
-<section id="isso-thread"></section>
-
 +++
 
 ## For british eyes only.
