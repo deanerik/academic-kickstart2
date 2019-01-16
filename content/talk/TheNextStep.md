@@ -51,4 +51,4 @@ focal_point = "Right"
 
 +++
 
-The set of skills that make a student successful in highschool are not the same as those needed in university. There are a host of different resources available to students, new challenges and opportunities, which can come as a startling change of environments for new students. In this talk I give an an overview on strategies for a successful transition to university, outlining the likely challenges across immediate and long-term timescales, to a graduating class of highschool students.
+The set of skills that make a student successful in high school are not necessarily the same as those needed in university. There are a host of different resources available to students, which may not be anticipated. Moreover, there are several new challenges, protocols, and opportunities as well, all of which can come together as a stark contrast of environments to the uninitated. In this talk I give an overview on strategies for a successful transition to university, outlining the likely challenges across immediate and long-term timescales, and structured for an audience of graduating highschool students.
