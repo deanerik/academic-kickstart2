@@ -1,3 +1,5 @@
++++ title = "Test_post" date = 2017-12-25T01:18:16+01:00 draft = false
+
 Post in progress:
 
 If you're having trouble with your rprofile, it might be because you don't have a trailing newline.
