@@ -1,5 +1,11 @@
-+++ title = "R profile" date = 2019-22-25T01:18:16+01:00 draft = false
++++ title = "R profile tip" date = 2019-08-21 math = true summary = "If your r profile is not being sourced properly, try this" share = false
 
+[header] image = "" 
+caption = "This is the caption, this is a much longer one though with some italics and Bolds."
+
+This is a hidden page, testing out. This is a comment
+https://www.markdownguide.org/extended-syntax use this resource
+https://sourcethemes.com/academic/docs/writing-markdown-latex/ AND THIS RESOURCE
 
 +++
 Post in progress:
