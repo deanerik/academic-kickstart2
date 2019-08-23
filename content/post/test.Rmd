@@ -1,0 +1,22 @@
+---
+title: So you’ve been asked to make a reprex
+author: Erik
+date: '2019-02-12'
+slug: so-you-ve-been-asked-to-make-a-reprex
+categories:
+  - education
+  - R
+  - reprex
+  - reproducible example
+  - tutorial
+tags:
+  - education
+  - R
+  - reprex
+  - reproducible example
+  - tutorial
+---
+## Introduction
+If you've found yourself here, you've probably been asked to create a **re**producible **ex**ample, or [reprex](https://www.tidyverse.org/help/), in response to a question you asked on the [RStudio Community Site](https://community.rstudio.com/). This post provides a cursory overview of both creating a reprex as well as how to _share_ your reprex on the RStudio Community site.  
+***
+
