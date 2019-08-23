@@ -1,6 +1,6 @@
 +++ 
 
-title = R profile tip
+title = "R profile tip"
 author = Erik
 date = '2019-08-21' 
 math = true 
