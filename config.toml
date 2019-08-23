@@ -277,12 +277,12 @@ defaultContentLanguageInSubdir = false
   [[menu.main]]
   name = "Posts"
   url = "#posts"
-  identifier = "Other"
+ #identifier = "Other"
   weight = 6
   
-[[menu.main]]
-  name = "Other"
-  parent = "Posts"
+#[[menu.main]]
+ # name = "Other"
+  #parent = "Posts"
 
 # Taxonomies.
 [taxonomies]
