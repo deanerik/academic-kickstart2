@@ -2,9 +2,10 @@
 
 title = "R profile tip"
 author = "Erik"
-date = '2019-08-21' 
-math = true 
-summary  = "If your r profile is not being sourced properly, try this" share = false
+date = 2019-08-21
+math = true
+summary  = "If your r profile is not being sourced properly, try this" 
+share = false
 
 [header] image = "" caption = ""
 
