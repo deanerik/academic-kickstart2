@@ -1,34 +1,23 @@
-+++ title = "Fall Semester [2018]" date = 2018-12-13 math = true summary = "First semester updates: literature review, draft proposal" share = false
++++ 
 
-[header] image = "kites.png" caption = "This is the caption, this is a much longer one though with some italics and Bolds."
+title = R profile tip
+author = Erik
+date = '2019-08-21' 
+math = true 
+summary  = "If your r profile is not being sourced properly, try this" share = false
 
-This is a hidden page, testing out. This is a comment
-https://www.markdownguide.org/extended-syntax use this resource
-https://sourcethemes.com/academic/docs/writing-markdown-latex/ AND THIS RESOURCE
-+++
+[header] image = "" caption = "This is the caption, this is a much longer one though with some italics and Bolds."
 
-For british eyes only.
-This is unlisted, and should not be easily found.
-THIS IS A TEST PAGE
-Bold
+This is a hidden page, testing out. This is a comment https://www.markdownguide.org/extended-syntax use this resource https://sourcethemes.com/academic/docs/writing-markdown-latex/ AND THIS RESOURCE
 
-italics
++++ 
 
-Job	Action
-Lit Review	10 page
-Draft chapters	4 ideas
-additional stuff here	and another box even though its long?
- Systematic review search
- Compile literature
- Filter irrelevant results
-This is a sentence:
+Post in progress:
 
-this is a block quote indeed 
-and this is the second sentence. But does this also go in the quote?
+If you're having trouble with your rprofile, it might be because you don't have a trailing newline.
 
-Does this become a block quote? 
-and this is the second sentence?
+The last line of the profile is ignored, so you'll want to have some dummy line in there so that the previous ones are recognized.
 
-or only these types. with the >next to the word.
+I wanted to set my r profile to use my anaconda distribution of python, so I had put both lines in.
 
-How about this?
+/end
