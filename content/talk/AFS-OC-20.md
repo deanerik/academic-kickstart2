@@ -1,10 +1,9 @@
 +++ 
-title = "Exploring establishment potential of Bighead Carp (_Hypophthalmichthys
-nobilis_) in the Canadian Great Lakes under climate change" 
+title = "Exploring establishment potential of Bighead Carp (_Hypophthalmichthys nobilis_) in the Canadian Great Lakes under climate change" 
 date = 2020-07-14T11:00:00-04:00
 draft = false
 
-time_start = 2020-02-21T11:00:00-04:00#time_end = 2020-02-21T12:00:00-04:00 
+time_start = 2020-02-21T12:00:00-04:00 #time_end = 2020-02-21T13:00:00--04:00 
 
 # Authors. Comma separated list, e.g. ["Bob Smith", "David Jones"]. 
 authors = ["Erik K. Dean", "Nicholas E. Mandrak", "D. Andrew R. Drake"]

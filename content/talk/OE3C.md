@@ -4,7 +4,7 @@ Carp populations in the Great Lakes"
 date = 2020-07-15T11:00:00-04:00
 draft = false
 
-time_start = 2020-05-09T11:00:00-04:00#time_end = 2020-05-09T16:00:00-04:00
+time_start = 2020-05-09T12:00:00-04:00 #time_end = 2020-05-09T16:00:00--04:00
 
 # Authors. Comma separated list, e.g. ["Bob Smith", "David Jones"]. 
 authors = ["Erik K. Dean", "Nicholas E. Mandrak", "D. Andrew R. Drake"]
@@ -30,7 +30,7 @@ event = "Ontario Ecology, Ethology, and Evolution Colloquium"
 event_url = "https://oe3c.com/"
 
 # Location of event. 
-location = "Guelph, Canada (_online_)"
+location = "Guelph, Ontario, Canada (_online_)"
 
 # Is this a selected talk? (true/false) 
 selected = false
