@@ -1,9 +1,10 @@
 +++ 
-title = "OE3C Talk" 
-date = 2020-05-09T11:00:00-04:00
+title = "Asian carps under climate change: modelling Bighead
+Carp populations in the Great Lakes" 
+date = 2020-07-15T11:00:00-04:00
 draft = false
 
-time_start = 2020-05-09T11:00:00-04:00#time_end = 2020-05-09T11:00:00-04:00 
+time_start = 2020-05-09T11:00:00-04:00#time_end = 2020-05-09T11:00:00-04:00
 
 # Authors. Comma separated list, e.g. ["Bob Smith", "David Jones"]. 
 authors = ["Erik K. Dean, Nicholas E. Mandrak, D. Andrew R. Drake"]
