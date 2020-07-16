@@ -2,12 +2,12 @@
 name = "Default"
 
 # Optional Google font URL
-google_fonts = "Cormorant Garamond:300,500|Lato:200,300|Roboto+Mono|Poiret One"
+google_fonts = "Cormorant Garamond:300,700|Lato:200,300|Roboto Mono|Lexend Tera"
 
 # Font families
 heading_font = "Lato"
 body_font = "Cormorant Garamond"
-nav_font = "Poiret One"
+nav_font = "Lexend Tera"
 mono_font = "Roboto Mono"
 
 # Font size
