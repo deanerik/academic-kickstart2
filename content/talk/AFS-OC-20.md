@@ -3,27 +3,13 @@ title = "Exploring establishment potential of Bighead Carp (_Hypophthalmichthys 
 date = 2020-07-14T11:00:00-04:00
 draft = false
 
-time_start = 2018-11-30T14:01:00-04:00 #time_end = 2018-11-30T15:00:00--04:00
-
-#2020-02-21T12:00:00-04:00 #time_end = 2020-02-21T13:00:00--04:00 
+time_start = 2020-02-21T12:00:00-04:00 #time_end = 2020-02-21T13:00:00--04:00 
 
 # Authors. Comma separated list, e.g. ["Bob Smith", "David Jones"]. 
 authors = ["Erik K. Dean", "Nicholas E. Mandrak", "D. Andrew R. Drake"]
 
 # Abstract and optional shortened version. 
-abstract = "Bighead Carp are a fast-growing, voracious, and highly invasive species of fish that
-occur throughout the Mississippi River in the United States. Today, they have the
-potential to expand northwards and enter the Canadian Great Lakes, where they may
-encounter environmental conditions that can affect their growth and maturation.
-Populations of Bighead Carp in colder climates have been shown to grow slower, and
-mature later in life; however, under the projected warming from climate change, faster
-growth, and earlier maturation may become possible in the Great Lakes. This study
-presents a stage-based matrix population model that considers varying ages of maturity,
-growth, and associated survival and fecundity parameters that change with
-temperature. Population growth simulations show that early maturation results in faster
-population establishment; however, anticipated climate change may not be sufficient to
-induce early maturation in the near future. Alternatively, model outputs show that the
-most influential factor upon the rate of establishment for Bighead Carp is the fecundity
+abstract = "Bighead Carp are a fast-growing, voracious, and highly invasive species of fish that occur throughout the Mississippi River in the United States. Today, they have the potential to expand northwards and enter the Canadian Great Lakes, where they may encounter environmental conditions that can affect their growth and maturation. Populations of Bighead Carp in colder climates have been shown to grow slower, and mature later in life; however, under the projected warming from climate change, faster growth, and earlier maturation may become possible in the Great Lakes. This study presents a stage-based matrix population model that considers varying ages of maturity, growth, and associated survival and fecundity parameters that change with temperature. Population growth simulations show that early maturation results in faster population establishment; however, anticipated climate change may not be sufficient to induce early maturation in the near future. Alternatively, model outputs show that the most influential factor upon the rate of establishment for Bighead Carp is the fecundity
 of the founding individuals"
 
 abstract_short = "Bighead Carp threaten to invade the Canadian Great Lakes. How will might a changing climate affect their population growth?"

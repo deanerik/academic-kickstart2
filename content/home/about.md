@@ -13,14 +13,14 @@ weight = 5
     "Ecology",
     "Conservation",
     "Climate Change",
+    "Invasive Species",
     "Scientific Computing",
-    "Fisheries Management"
   ]
 
 # List your qualifications (such as academic degrees).
 [[education.courses]]
   course = "Doctor of Philosophy"
-  institution = "University of Toronto 2022"
+  institution = "University of Toronto 2023"
   year = ""
 
 [[education.courses]]
@@ -37,5 +37,5 @@ weight = 5
 
 # Synopsis
 
-I am working to address the alien invasions of the future. As climate change progresses, aquatic habitats, and the communities of fishes within them are projected to be deeply reshaped. Arising from this flux is the potential arrival, and survival, of harmful invasive alien species. Species such as the Asian Carps, arriving in expansive water bodies like the Laurentian Great Lakes, could be ruinous to the economy, and ecology of Canada. Through combining traditional approaches with machine learning techniques, I am developing models to predict the future environmental conditions which would enable such invasions, and the timeframe in which they may happen.
+I am working to address the alien invasions of the future. As climate change progresses, aquatic habitats, and the communities of fishes within them are projected to be deeply reshaped. Arising from this flux is the potential arrival, and survival, of harmful invasive alien species. Species such as the Asian Carps, arriving in expansive water bodies like the Laurentian Great Lakes, could be ruinous to the economy, and ecology of Canada. Through combining traditional approaches with machine learning techniques, I am developing models to predict the future environmental conditions which would enable such invasions, and the time frame in which they may happen.
 

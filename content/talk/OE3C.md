@@ -1,30 +1,17 @@
 +++ 
-title = "Asian carps under climate change: modelling Bighead
-Carp populations in the Great Lakes" 
+title = "Asian carps under climate change: modelling Bighead Carp populations in the Great Lakes" 
 date = 2020-07-15T11:00:00-04:00
 draft = false
 
-time_start = 2018-11-30T14:01:00-04:00 #time_end = 2018-11-30T15:00:00--04:00
-#2020-05-09T12:00:00-04:00 #time_end = 2020-05-09T16:00:00--04:00
+time_start = 2020-05-09T12:00:00-04:00 #time_end = 2020-05-09T16:00:00--04:00
 
 # Authors. Comma separated list, e.g. ["Bob Smith", "David Jones"]. 
 authors = ["Erik K. Dean", "Nicholas E. Mandrak", "D. Andrew R. Drake"]
 
 # Abstract and optional shortened version. 
-abstract = "Bighead Carp are a highly invasive, fast-growing and voracious species of fish that are abundant in
-the Mississippi River. There is a growing concern of their potential to expand northwards and enter
-the Canadian Great Lakes; however, they may encounter different environmental conditions that affect
-their growth and maturation. At higher latitudes, Bighead Carp have been observed to mature later
-in life and grow at a reduced rate. Under a changing climate, warmer temperatures are expected in
-the Great Lakes, potentially enabling the earlier maturation and faster growth seen at lower latitudes.
-This study presents a stage-based matrix population model that incorporates variable age of maturity,
-growth, survival, and fecundity parameters that shift with temperature to explore potential Bighead
-Carp invasions. Model simulations show that earlier maturation results in greater population growth;
-however, anticipated climate change may not be sufficient to induce early maturation in the near
-future. Alternatively, model outputs show that the fecundity of the initial individuals to arrive in the
-Great Lakes is the most influential to the rate of invasion."
+abstract = "Bighead Carp are a highly invasive, fast-growing and voracious species of fish that are abundant in the Mississippi River. There is a growing concern of their potential to expand northwards and enter the Canadian Great Lakes; however, they may encounter different environmental conditions that affect their growth and maturation. At higher latitudes, Bighead Carp have been observed to mature later in life and grow at a reduced rate. Under a changing climate, warmer temperatures are expected in the Great Lakes, potentially enabling the earlier maturation and faster growth seen at lower latitudes. This study presents a stage-based matrix population model that incorporates variable age of maturity, growth, survival, and fecundity parameters that shift with temperature to explore potential Bighead Carp invasions. Model simulations show that earlier maturation results in greater population growth; however, anticipated climate change may not be sufficient to induce early maturation in the near future. Alternatively, model outputs show that the fecundity of the initial individuals to arrive in the Great Lakes is the most influential to the rate of invasion."
 
-abstract_short = "Bighead Carp threaten to invade the Canadian Great Lakes. How will might a changing climate affect their population growth?"
+abstract_short = ""
 
 # Name of event and optional event URL. 
 event = "Ontario Ecology, Ethology, and Evolution Colloquium" 
