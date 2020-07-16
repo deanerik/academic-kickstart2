@@ -1,5 +1,5 @@
 +++ 
-title = "Exploring establishment potential of Bighead Carp (_Hypophthalmichthys nobilis_) in the Canadian Great Lakes under climate change" 
+title = "Exploring establishment potential of Bighead Carp (Hypophthalmichthys nobilis) in the Canadian Great Lakes under climate change" 
 date = 2020-07-14T11:00:00-04:00
 draft = false
 
